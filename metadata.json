@@ -1,0 +1,6 @@
+{
+  "name": "要背单词",
+  "description": "参照 UnlearnableWord 打造的离线背单词与记忆复习软件，支持本地导入自定义词库及科学艾宾浩斯复习提醒。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
